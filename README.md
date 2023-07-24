@@ -23,8 +23,3 @@ Image Editor is a Python script that provides various image editing functionalit
 To use the Image Editor, run the script and pass the desired image path and processing options as function arguments.
 
 ```python
-# Example usage
-image_path = Path("example_image.png")
-image = ex5_helper.load_image(image_path)
-separated_channels = separate_channels(image)
-# ... Add other functions and image processing operations here ...
